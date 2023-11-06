@@ -242,6 +242,7 @@ section {
   border: rgb(53,53,53) 0.1rem solid;
   border-color: rgb(163,163,163);
   text-align: center;
+  margin-top: 2vw;
 }
 .section-container{
   gap: 4rem;
